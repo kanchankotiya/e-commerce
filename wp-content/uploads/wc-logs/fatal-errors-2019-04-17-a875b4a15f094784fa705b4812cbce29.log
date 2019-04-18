@@ -1,0 +1,6 @@
+2019-04-17T05:03:44+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\storevilla\welcome\sections\free_vs_pro.php on line 22
+
+2019-04-17T05:03:50+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\wordpress\wp-content\themes\storevilla\welcome\sections\free_vs_pro.php on line 22
+
+2019-04-17T06:06:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\class-core-upgrader.php on line 380
+
